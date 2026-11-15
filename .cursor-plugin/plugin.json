@@ -1,0 +1,17 @@
+{
+  "name": "anyscribe",
+  "displayName": "AnyScribe",
+  "version": "1.0.0",
+  "description": "Search and read your AnyScribe transcripts, and send links to your iPhone to transcribe.",
+  "author": {
+    "name": "AnyScribe",
+    "email": "support@anyscribe.app"
+  },
+  "homepage": "https://www.anyscribe.app/mcp",
+  "repository": "https://github.com/KELiON/anyscribe-mcp",
+  "license": "MIT",
+  "logo": "icon.png",
+  "keywords": ["anyscribe", "transcription", "transcripts", "youtube", "podcasts", "mcp"],
+  "category": "integrations",
+  "tags": ["anyscribe", "transcription", "mcp"]
+}

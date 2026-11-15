@@ -1,0 +1,16 @@
+{
+  "name": "anyscribe",
+  "description": "AnyScribe for Claude Code: search and read your transcripts, and send links to your iPhone to transcribe.",
+  "owner": {
+    "name": "AnyScribe",
+    "email": "support@anyscribe.app",
+    "url": "https://www.anyscribe.app"
+  },
+  "plugins": [
+    {
+      "name": "anyscribe",
+      "source": "./",
+      "description": "Search and read your AnyScribe transcripts, and send links to your iPhone to transcribe."
+    }
+  ]
+}

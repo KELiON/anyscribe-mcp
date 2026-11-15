@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "app.anyscribe/anyscribe",
+  "title": "AnyScribe",
+  "description": "Search and read your AnyScribe transcripts, and send links to your iPhone to transcribe.",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.anyscribe.app/mcp",
+  "repository": {
+    "url": "https://github.com/KELiON/anyscribe-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://www.anyscribe.app/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.anyscribe.app"
+    }
+  ]
+}

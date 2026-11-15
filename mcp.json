@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "anyscribe": {
+      "type": "http",
+      "url": "https://mcp.anyscribe.app"
+    }
+  }
+}
