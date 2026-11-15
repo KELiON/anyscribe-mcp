@@ -41,6 +41,8 @@ Then type `/mcp` and sign in. Or install it as a plugin:
 
 **Cursor:** [Add to Cursor](cursor://anysphere.cursor-deeplink/mcp/install?name=anyscribe&config=eyJ1cmwiOiJodHRwczovL21jcC5hbnlzY3JpYmUuYXBwIn0%3D), or add the server URL under Settings → MCP.
 
+**Kiro:** [Add to Kiro](https://kiro.dev/launch/mcp/add?name=anyscribe&config=%7B%22url%22%3A%22https%3A%2F%2Fmcp.anyscribe.app%22%7D), then sign in when Kiro asks.
+
 **VS Code:**
 
 ```sh
