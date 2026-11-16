@@ -15,6 +15,16 @@ AnyScribe is an iPhone and iPad app that transcribes YouTube videos, podcasts, T
 
 Library tools are read-only, so an assistant can't change or delete anything. Sending a link adds a new transcription, the same as sharing a link to AnyScribe yourself, and uses your transcription time.
 
+## Skills
+
+The Claude plugin also adds three skills that show the assistant how to use AnyScribe well:
+
+- **get-started:** what AnyScribe can do, what the user needs, and what to do when the library is empty or no iPhone is set up.
+- **transcript-brief:** find a transcription, read all of it, and write a brief with key points, exact quotes and the user's highlights, or compare several transcriptions.
+- **transcribe-link:** send a link to the user's iPhone, follow the job, then summarize or translate the transcript when it's ready.
+
+The skills only use the AnyScribe server above. They don't run code or contact any other service.
+
 ## Before you connect
 
 - AnyScribe on iPhone or iPad, signed in with Apple, with Cloud Sync on.
